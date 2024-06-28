@@ -1,0 +1,10 @@
+#include <stdio.h>
+main()
+{
+	long int a;
+	printf("êÆêî?");
+	scanf("%ld", &a);
+	printf("2î{Ç∑ÇÈÇ∆ %ld\n", a * 2);
+	printf("3î{Ç∑ÇÈÇ∆ %ld\n", a * 3);
+	printf("4î{Ç∑ÇÈÇ∆ %ld\n", a * 4);
+}
